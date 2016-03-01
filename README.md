@@ -1,7 +1,8 @@
 # Remote-Hand-Gesture-Control
 
 #Software Used:
-1.Pyhthon 3
+1.Python 3
+
 2.OpenCV
 
 #Instructions:
